@@ -41,6 +41,8 @@ and just ask the editors to select the category.
 
 ### Research
 
+* [The magic of dependency resolution](https://ochagavia.nl/blog/the-magic-of-dependency-resolution/)
+
 ### Miscellaneous
 
 ## Crate of the Week
