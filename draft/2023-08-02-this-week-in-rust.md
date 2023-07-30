@@ -37,6 +37,8 @@ and just ask the editors to select the category.
 
 ### Observations/Thoughts
 
+* [Low latency logging](https://ochagavia.nl/blog/low-latency-logging/)
+
 ### Rust Walkthroughs
 
 ### Research
