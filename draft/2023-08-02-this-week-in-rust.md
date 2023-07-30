@@ -37,6 +37,8 @@ and just ask the editors to select the category.
 
 ### Observations/Thoughts
 
+* [Low latency logging in Rust](https://ochagavia.nl/blog/low-latency-logging-in-rust/)
+
 ### Rust Walkthroughs
 
 ### Research
